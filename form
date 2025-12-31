@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Document</title>
+</head>
+<body>
+        <h1>Visitor model pag </h1>
+        <form action="visitor.php">
+            <label for="Username">Username</label>
+            <input type="text" id="Username" name="Username" required>
+            <br><br>
+            <label for="number">Number</label>
+            <input type="text" id="number" name="number" required>
+                <br><br>
+             <label for="Project details">Project details</label>
+             <input type="text" id="Project details" name="Project details" required>
+        </form>
+</body>
+</html>
